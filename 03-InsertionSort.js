@@ -1,0 +1,4 @@
+const listaPrecios = require ("./Data")
+
+
+
